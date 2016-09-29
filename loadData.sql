@@ -113,13 +113,3 @@ INSERT INTO TAGS (TAG_PHOTO_ID, TAG_SUBJECT_ID, TAG_CREATE_TIME, TAG_X, TAG_Y)
 Compare row values
 NOT NULL values?
 */
- 
-
-
-#laskdf
-
-
- 
-
-
-
